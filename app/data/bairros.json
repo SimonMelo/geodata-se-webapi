@@ -1,0 +1,587 @@
+{
+    "2800100": {
+        "municipio": "Amparo de São Francisco",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2800209": {
+        "municipio": "Aquidabã",
+        "bairros": [
+            "Centro",
+            "João Pessoa",
+            "Novo Horizonte"
+        ]
+    },
+    "2800308": {
+        "municipio": "Aracaju",
+        "bairros": [
+            "18 do Forte",
+            "Aeroporto",
+            "América",
+            "Atalaia",
+            "Bairro Industrial",
+            "Bugio",
+            "Capucho",
+            "Centro",
+            "Cidade Nova",
+            "Cirurgia",
+            "Coroa do Meio",
+            "Dezoito do Forte",
+            "Farolândia",
+            "Grageru",
+            "Inácio Barbosa",
+            "Japãozinho",
+            "Jardim Centenário",
+            "Jardins",
+            "José Conrado de Araújo",
+            "Lamarão",
+            "Luzia",
+            "Marcos Freire I",
+            "Marcos Freire II",
+            "Marcos Freire III",
+            "Maracanã",
+            "Médici",
+            "Novo Paraíso",
+            "Olaria",
+            "Orlando Dantas",
+            "Palestina",
+            "Ponto Novo",
+            "Porto Dantas",
+            "Prainha",
+            "Presidente Vargas",
+            "Pereira Lobo",
+            "Robalo",
+            "Rosa Elze",
+            "Santa Maria",
+            "Salgado Filho",
+            "Santos Dumont",
+            "São Conrado",
+            "Soledade",
+            "Suíça",
+            "Siqueira Campos",
+            "Tiradentes",
+            "Treze de Julho",
+            "18 do Forte"
+        ]
+    },
+    "2800407": {
+        "municipio": "Arauá",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2800506": {
+        "municipio": "Areia Branca",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2800605": {
+        "municipio": "Barra dos Coqueiros",
+        "bairros": [
+            "Centro",
+            "Atalaia Nova",
+            "Janga",
+            "Olhos D'Água"
+        ]
+    },
+    "2800670": {
+        "municipio": "Boquim",
+        "bairros": [
+            "Centro",
+            "Alto da Conceição",
+            "Novo Horizonte"
+        ]
+    },
+    "2800704": {
+        "municipio": "Brejo Grande",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2801009": {
+        "municipio": "Campo do Brito",
+        "bairros": [
+            "Centro",
+            "Liberdade"
+        ]
+    },
+    "2801108": {
+        "municipio": "Canhoba",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2801207": {
+        "municipio": "Canindé de São Francisco",
+        "bairros": [
+            "Centro",
+            "Ilha do Ouro",
+            "Novo Horizonte"
+        ]
+    },
+    "2801306": {
+        "municipio": "Capela",
+        "bairros": [
+            "Centro",
+            "Alto da Conceição",
+            "Novo Horizonte"
+        ]
+    },
+    "2801405": {
+        "municipio": "Carira",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2801504": {
+        "municipio": "Carmópolis",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2801603": {
+        "municipio": "Cedro de São João",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2801702": {
+        "municipio": "Cristinápolis",
+        "bairros": [
+            "Centro",
+            "Alto da Boa Vista"
+        ]
+    },
+    "2801900": {
+        "municipio": "Cumbe",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2802007": {
+        "municipio": "Divina Pastora",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2802106": {
+        "municipio": "Estância",
+        "bairros": [
+            "Centro",
+            "Alto da Boa Vista",
+            "Novo Horizonte",
+            "Planalto",
+            "Santa Luzia",
+            "São João"
+        ]
+    },
+    "2802205": {
+        "municipio": "Feira Nova",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2802304": {
+        "municipio": "Frei Paulo",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2802403": {
+        "municipio": "Gararu",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2802502": {
+        "municipio": "General Maynard",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2802601": {
+        "municipio": "Gracho Cardoso",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2802700": {
+        "municipio": "Ilha das Flores",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2802809": {
+        "municipio": "Indiaroba",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2802908": {
+        "municipio": "Itabaiana",
+        "bairros": [
+            "Centro",
+            "Alto do Cruzeiro",
+            "Boa Vista",
+            "Cidade Nova",
+            "Complexo",
+            "Conjunto Jardim",
+            "Lagoa Grande",
+            "Novo Horizonte",
+            "Planalto",
+            "Santo Antônio",
+            "São Francisco"
+        ]
+    },
+    "2803005": {
+        "municipio": "Itabaianinha",
+        "bairros": [
+            "Centro",
+            "Alto da Boa Vista",
+            "Novo Horizonte"
+        ]
+    },
+    "2803104": {
+        "municipio": "Itabi",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2803203": {
+        "municipio": "Itaporanga d'Ajuda",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2803302": {
+        "municipio": "Japaratuba",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2803401": {
+        "municipio": "Japoatã",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2803500": {
+        "municipio": "Lagarto",
+        "bairros": [
+            "Alto da Boa Vista",
+            "Centro",
+            "Cidade Nova",
+            "Conjunto Marcos Freire",
+            "Dom Bosco",
+            "Novo Horizonte",
+            "Santa Maria",
+            "Santo Antônio"
+        ]
+    },
+    "2803609": {
+        "municipio": "Laranjeiras",
+        "bairros": [
+            "Centro",
+            "Alto da Boa Vista",
+            "Novo Horizonte",
+            "São Pedro"
+        ]
+    },
+    "2803708": {
+        "municipio": "Macambira",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2803807": {
+        "municipio": "Malhada dos Bois",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2803906": {
+        "municipio": "Malhador",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2804003": {
+        "municipio": "Maruim",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2804102": {
+        "municipio": "Moita Bonita",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2804201": {
+        "municipio": "Monte Alegre de Sergipe",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2804300": {
+        "municipio": "Muribeca",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2804409": {
+        "municipio": "Neópolis",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2804458": {
+        "municipio": "Nossa Senhora Aparecida",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2804508": {
+        "municipio": "Nossa Senhora da Glória",
+        "bairros": [
+            "Centro",
+            "Alto da Boa Vista",
+            "Novo Horizonte",
+            "Planalto"
+        ]
+    },
+    "2804607": {
+        "municipio": "Nossa Senhora das Dores",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte",
+            "Santo Antônio"
+        ]
+    },
+    "2804706": {
+        "municipio": "Nossa Senhora de Lourdes",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2804805": {
+        "municipio": "Nossa Senhora do Socorro",
+        "bairros": [
+            "Aningas",
+            "Brasília",
+            "Centro",
+            "Cidade Nova",
+            "Conjunto Alvorada",
+            "Conjunto João Alves",
+            "Dom Bosco",
+            "Eduardo Gomes",
+            "Jardim",
+            "Marcos Freire",
+            "Mutirão",
+            "Novo Horizonte",
+            "Piabeta",
+            "Porto Novo",
+            "Santa Lúcia",
+            "Taiçoca de Fora"
+        ]
+    },
+    "2804904": {
+        "municipio": "Pacatuba",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2805000": {
+        "municipio": "Pedra Mole",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2805109": {
+        "municipio": "Pedrinhas",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2805208": {
+        "municipio": "Pinhão",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2805307": {
+        "municipio": "Pirambu",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2805406": {
+        "municipio": "Poço Redondo",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2805505": {
+        "municipio": "Poço Verde",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2805604": {
+        "municipio": "Porto da Folha",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2805703": {
+        "municipio": "Propriá",
+        "bairros": [
+            "Centro",
+            "Alto da Boa Vista",
+            "Novo Horizonte",
+            "Santa Izabel"
+        ]
+    },
+    "2805802": {
+        "municipio": "Riachão do Dantas",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2805901": {
+        "municipio": "Riachuelo",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2806008": {
+        "municipio": "Ribeirópolis",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2806107": {
+        "municipio": "Rosário do Catete",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2806206": {
+        "municipio": "Salgado",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    },
+    "2806305": {
+        "municipio": "Santa Luzia do Itanhy",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2806404": {
+        "municipio": "Santana do São Francisco",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2806503": {
+        "municipio": "Santa Rosa de Lima",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2806602": {
+        "municipio": "Santo Amaro das Brotas",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2806701": {
+        "municipio": "São Cristóvão",
+        "bairros": [
+            "Centro",
+            "Conjunto Jardim",
+            "Rosa Elze",
+            "São José",
+            "Silvio Romero"
+        ]
+    },
+    "2806800": {
+        "municipio": "São Domingos",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2806909": {
+        "municipio": "São Francisco",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2807006": {
+        "municipio": "São Miguel do Aleixo",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2807105": {
+        "municipio": "Simão Dias",
+        "bairros": [
+            "Centro",
+            "Alto da Boa Vista",
+            "Novo Horizonte",
+            "Santo Antônio"
+        ]
+    },
+    "2807204": {
+        "municipio": "Siriri",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2807303": {
+        "municipio": "Telha",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2807402": {
+        "municipio": "Tobias Barreto",
+        "bairros": [
+            "Centro",
+            "Alto da Boa Vista",
+            "Cidade Nova",
+            "Novo Horizonte",
+            "Santa Maria"
+        ]
+    },
+    "2807501": {
+        "municipio": "Tomar do Geru",
+        "bairros": [
+            "Centro"
+        ]
+    },
+    "2807600": {
+        "municipio": "Umbaúba",
+        "bairros": [
+            "Centro",
+            "Novo Horizonte"
+        ]
+    }
+}
